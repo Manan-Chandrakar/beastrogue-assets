@@ -1,0 +1,10 @@
+{
+  "name": "BeastRogue Assets",
+  "short_name": "BeastRogue",
+  "description": "Asset collection for BeastRogue game",
+  "start_url": "/beastrogue-assets/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#ff6b6b",
+  "icons": []
+}
